@@ -5,5 +5,4 @@
 	app.controller('StoreController', function(){
 		this.product = gem;
 	});
-
 })();
